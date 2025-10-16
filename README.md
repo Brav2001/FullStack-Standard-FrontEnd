@@ -119,7 +119,7 @@ Luego podrás iniciar sesión desde la interfaz con ese usuario.
 
 ---
 
-## 👩‍👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desarrollado por **Brayan Acosta Vivas**  
 Desarrollador Fullstack
