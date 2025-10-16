@@ -16,7 +16,9 @@ export const AppRouter = () => {
           path="/dashboard"
           element={accessToken ? <DashboardPage /> : <Navigate to="/login" />}
         />
+
         <Route path="/register" element={<RegisterPage />} />
+        <Route path="/" element={<Navigate to="/dashboard" />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </BrowserRouter>
